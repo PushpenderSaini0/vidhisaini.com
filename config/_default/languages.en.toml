@@ -4,6 +4,13 @@ weight = 1
 
 title = "Vidhi Saini"
 
+[params]
+  description = "Vidhi Saini | CA Finalist"
+  images = ['img/author.jpeg']
+  title = "Vidhi Saini | CA Finalist"
+  [params.social]
+    linkedin = "https://www.linkedin.com/in/vidhi-saini-b32034319/"
+
 [params.author]
 bio = "CA Finalist"
 headline = "CA Finalist"
