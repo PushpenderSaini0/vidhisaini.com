@@ -1,0 +1,5 @@
+baseURL = 'https://vidhisaini.com/'
+languageCode = 'en'
+title = 'Vidhi Saini'
+
+enableRobotsTXT = true

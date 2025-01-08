@@ -1,0 +1,6 @@
+colorScheme = "congo"
+
+
+[homepage]
+  layout = "profile"
+  showRecent = false

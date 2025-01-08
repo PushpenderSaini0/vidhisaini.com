@@ -1,0 +1,16 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "Vidhi Saini"
+
+[params.author]
+bio = "CA Finalist"
+headline = "CA Finalist"
+image = "img/author.jpeg"
+links = [
+  { linkedin = 'https://www.linkedin.com/in/vidhi-saini-b32034319/' },
+  { email = "mailto:vidhisaini2112@gmail.com" },
+  { instagram = "https://www.instagram.com/vvi.ttyyy/" },
+]
+name = "Vidhi Saini"
