@@ -18,6 +18,6 @@ image = "img/author.jpeg"
 links = [
   { linkedin = 'https://www.linkedin.com/in/vidhi-saini-b32034319/' },
   { email = "mailto:vidhisaini2112@gmail.com" },
-  { instagram = "https://www.instagram.com/vvi.ttyyy/" },
+  { instagram = "https://www.instagram.com/vvi.tty/" },
 ]
 name = "Vidhi Saini"
